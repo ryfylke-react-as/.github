@@ -1,4 +1,4 @@
-### Hi! 🖐
+### Hi! 👋 
 
 **Ryfylke React AS** is a front-end consultancy company that loves open source ❤️
 
